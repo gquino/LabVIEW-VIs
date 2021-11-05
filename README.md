@@ -10,3 +10,5 @@ Modules required:
 Tested with:
 - FLIR Blackfly S,BFS-U3-51S5M-C 
 - JAI camera, Ethernet cable
+
+If you found it useful, you could say thanks with a coffee! https://ko-fi.com/quinoqg
